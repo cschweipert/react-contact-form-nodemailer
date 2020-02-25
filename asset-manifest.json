@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-contact-form-nodemailer/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-contact-form-nodemailer/static/js/main.c7c320f7.chunk.js",
+    "main.js.map": "/react-contact-form-nodemailer/static/js/main.c7c320f7.chunk.js.map",
+    "runtime-main.js": "/react-contact-form-nodemailer/static/js/runtime-main.1fbb1cfa.js",
+    "runtime-main.js.map": "/react-contact-form-nodemailer/static/js/runtime-main.1fbb1cfa.js.map",
+    "static/js/2.d5b07066.chunk.js": "/react-contact-form-nodemailer/static/js/2.d5b07066.chunk.js",
+    "static/js/2.d5b07066.chunk.js.map": "/react-contact-form-nodemailer/static/js/2.d5b07066.chunk.js.map",
+    "index.html": "/react-contact-form-nodemailer/index.html",
+    "precache-manifest.d1ec805f0b94042fc059ff651b9db15c.js": "/react-contact-form-nodemailer/precache-manifest.d1ec805f0b94042fc059ff651b9db15c.js",
+    "service-worker.js": "/react-contact-form-nodemailer/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-contact-form-nodemailer/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.d5b07066.chunk.js.LICENSE.txt": "/react-contact-form-nodemailer/static/js/2.d5b07066.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fbb1cfa.js",
+    "static/js/2.d5b07066.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c7c320f7.chunk.js"
+  ]
+}
